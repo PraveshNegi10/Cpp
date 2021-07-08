@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Pravesh\\Desktop\\daa"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
